@@ -31,7 +31,7 @@ This is a React-based web application that allows users to browse and search for
    ```bash
    npm start
    ```
-2. Open your browser and go to `http://localhost:3000`.
+2. Open your browser and go to `http://localhost:5173/`.
 
 ## Technologies Used
 
